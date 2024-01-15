@@ -1,0 +1,4 @@
+Niva n2012 n12000000 black
+Lada n2013 n15000 gray
+BWM n1994 n12000000 black
+Mersedes n1994 n12000000 norange
